@@ -439,26 +439,6 @@ a {
   background: var(--ivory-100);
 }
 
-/* Código y Pre */
-.code-example {
-  background: var(--ink-900);
-  color: var(--ivory-100);
-  padding: var(--space-4);
-  border-radius: var(--radius);
-  border-left: 4px solid var(--gold-500);
-}
-
-.code-example h5 {
-  color: var(--gold-300);
-}
-
-pre {
-  margin: 0;
-  font-family: monospace;
-  font-size: 14px;
-  white-space: pre-wrap;
-}
-
 /* Formulario */
 .contact-section {
   background: var(--ivory-100);
